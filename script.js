@@ -1,6 +1,7 @@
 // can do this in modules
 // should decide on what features would be the best
 
+// change this event to when start button clicked
 document.addEventListener('DOMContentLoaded', function () {
     const canvas = document.getElementById('gameCanvas');
     const ctx = canvas.getContext('2d');
