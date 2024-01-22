@@ -1,5 +1,7 @@
-// can do this in modules
+// can do this in modules if we want to teach import/export
 // should decide on what features would be the best
+// looks, start/gameover screen, css styling for webpage, score, highscore
+// obstacle variation, character variation, different speeds, music, sound effects, 
 
 // change this event to when start button clicked
 document.addEventListener('DOMContentLoaded', function () {
