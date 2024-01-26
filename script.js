@@ -3,7 +3,7 @@
 // looks, start/gameover screen, css styling for webpage, score, highscore
 // obstacle variation, character variation, different speeds, music, sound effects, 
 
-// change this event to when start button clicked
+
 document.addEventListener('DOMContentLoaded', function () {
     const canvas = document.getElementById('gameCanvas');
     const ctx = canvas.getContext('2d');
